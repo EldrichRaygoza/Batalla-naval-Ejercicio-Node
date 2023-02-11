@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'sm30battleship'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED5148C3BFA543A2922ED90D2E803BAF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D0C9FFF01104C6FA8C2BD11CFEF5801 }}
           package: .
